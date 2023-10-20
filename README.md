@@ -1,6 +1,6 @@
 # Ex-02-Admin
-#Name:Bhuvanesh.S.R
-#Reference no:23013380
+# Name:Bhuvanesh.S.R
+# Reference no:23013380
 # AIM
 Create a Django website with five users. Two users are to be staff users (including admin) and the other three users are non-staff users.
 
@@ -29,5 +29,10 @@ Enter given credentials to sign in into django server.
 Step 8:
 Add some user according to the requirement.
 
-#output:
+# Output:
+![Screenshot 2023-10-20 062252](https://github.com/Bhuvanesh-Suresh/ODD2023-WT-Ex-02-Admin/assets/145742661/af5ce4d1-57eb-41fb-a704-0b2a324267fa)
+
+# Result:
+Hence the task was executed successfully.
+
 
